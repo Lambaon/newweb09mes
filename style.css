@@ -1,3 +1,11 @@
 #Nadpis{
     color:rgb(43, 20, 255);
+
+}
+#Arizona{
+    width: 300px;/*В цсс довжина і широта пишется не через сайз     */
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
